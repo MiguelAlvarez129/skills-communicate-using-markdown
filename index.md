@@ -6,3 +6,10 @@
 ```javascript
 let variable = "Hello, Markdown!"
 ```
+
+#### Task List
+
+- [x] Start this course
+- [ ] Finish this markdown course
+- [ ] Learn Python
+- [ ] Learn cloud stuff 
