@@ -8,3 +8,9 @@ Did you know you can initalize a github respository locally with:
 $ git init
 Initialized git repo!
 ```
+
+#### TASKS DONE:
+
+- [x] First task
+- [ ] Second task
+- [ ] Final task
